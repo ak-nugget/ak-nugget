@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ak-nugget
-- 👀 I’m interested in plants, tequila and webdesign
-- 🌱 I’m currently learning how to create PWAs with NuxtJS
-- 📫 Reach out to me on www.wsrn.de
+- 💻 frontend dev
+- 😍 interested in plants, tequila and web-stuff
+- 👨🏻‍🎓 currently studying media informatics b.sc.
+- 📫 Reach out to me on www.pixelfreiheit.de
 <!--- 💞️ I’m looking to collaborate on ... -->
 
 <!---
