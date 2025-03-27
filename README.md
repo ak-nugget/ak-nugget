@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ak-nugget
 - 💻 frontend dev / wordpress dev
 - 😍 interested in plants, tequila and web-stuff
+- 🐶 dogfather to a sausage
 - ✉️ Reach out to me on www.pixelfreiheit.de
 <!--- 💞️ I’m looking to collaborate on ... -->
 
